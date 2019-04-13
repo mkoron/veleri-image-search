@@ -2,7 +2,7 @@ decorator==3.4.0
 Flask==0.10.1
 gunicorn ~> 19.5.0
 itsdangerous==0.24
-Jinja2==2.7.3
+Jinja2 ~> 2.10.1
 MarkupSafe==0.23
 matplotlib==1.4.3
 mock==1.0.1
